@@ -1,0 +1,16 @@
+.container{
+    margin-top: 10px;
+    border: solid 0.5px #E5E5E5;
+    border-radius: 10px;
+    background-color: #ffffff;
+    z-index: 1;
+}
+#hamb{
+    display: flex;
+    position: fixed;
+    margin-inline: -70px;
+    margin-top: -20px;
+    z-index: 1;
+    color: rgb(245, 245, 245);
+    background-color: #3A94EB;
+}
