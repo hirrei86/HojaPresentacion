@@ -1,39 +1,5 @@
-h4{
-    margin-top: 10px;
-}
-h3{
-    margin-top: 10px;
-}
 .container{
     margin-top: 15px;
     border: solid 0.5px #E5E5E5;
     border-radius: 10px;
-}
-input{
-    border-color: #E5E5E5;
-}
-
-button{
-    margin-top: 40px;
-margin-bottom: 10px;
-background-color: #3A94EB;
-color: black;
-}
-#button2{
-    border: none;
-    
-    background: rgb(85, 218, 212);
-    box-shadow: 1px 1px 30px -5px #18181849;
-    cursor: pointer;
-    transition: box-shadow 500ms;
-    color: rgb(0, 0, 0);
-    border-radius: 4px;
-    padding: 7px 19px;
-    margin-left: 169px;
-    margin-top: -108px;
-    margin-bottom: 70px;
-    display: flex;
-    justify-content: center;
-    font-weight: 500;
-    text-decoration: none;
 }
